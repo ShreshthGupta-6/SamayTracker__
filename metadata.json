@@ -1,0 +1,6 @@
+{
+  "name": "SamayTracker",
+  "description": "Active AI risk-prediction, intelligent task breakdown, custom emergency rescue plans, and habit intelligence dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
